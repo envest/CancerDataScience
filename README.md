@@ -1,6 +1,6 @@
 # Cancer Data Science
 
-[Class schedule](cnn.com){:target="_blank"}
+[Class schedule](https://www.cnn.com)
 
 [Feedback form]()
 
