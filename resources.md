@@ -8,6 +8,8 @@
 
 ### Python
 
+- [Rosalind](https://rosalind.info/problems/locations/)
+
 ### R
 
 - Learning R  
