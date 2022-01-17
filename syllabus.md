@@ -17,7 +17,7 @@ Spring 2022
 
 Dr. Steven M. Foltz (steven.foltz@rutgers.edu)
 
-I am a Postdoctoral Fellow at the University of Pennsylvania, and I have the privilege to teach this course through [PennPORT](https://www.med.upenn.edu/pennport/).
+I am a Postdoctoral Fellow at the University of Pennsylvania, and I have the opportunity to teach this course through the [PennPORT](https://www.med.upenn.edu/pennport/) program.
 I work in the [Childhood Cancer Data Lab](https://www.ccdatalab.org/), which is focused on using data to solve problems related to pediatric cancer.
 
 Research Area: Cancer genomics, bioinformatics, data science
