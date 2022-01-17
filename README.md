@@ -23,10 +23,10 @@ You will develop marketable programming skills (R, python) to get hands on exper
 - 35 minutes before class (ATG or zoom, depending on where class is)
 - By appointment ([via calendly](https://calendly.com/steven-foltz/office-hours)) or email (steven.foltz@rutgers.edu)
 
-## Resources
-
-
 ### Resources and tools
+
+Computing environment
+- RStudio Cloud
 
 Online programming tutorials/books
 - Python
