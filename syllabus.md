@@ -1,6 +1,8 @@
 # Cancer Data Science
 
-Spring 2022 Rutgers University Camden Biology 393 Special Topics
+Rutgers University Camden\
+Biology 393 Special Topics\
+Spring 2022
 
 ### Class meetings
 - T/Th 3:35-4:55
