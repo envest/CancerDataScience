@@ -4,14 +4,6 @@
 
 [Daily feedback form](https://forms.gle/i3uuzXodqsiaWYEk6)
 
-## Class description
-
-Key words: biology of cancer, cancer omics, data science with python and R, data visualization
-
-Cancer genomics shows us new ways to look at old biology.
-We will learn the fundamentals of cancer biology, the genomic technologies used to study tumors, and the computational methods necessary to analyze and present the data.
-You will develop marketable programming skills (R, python) to get hands on experience working with real cancer data, and we will work together as a team to address an open research question with the goal of publication.
-
 ## Essential information
 
 ### Class meetings
@@ -26,3 +18,11 @@ You will develop marketable programming skills (R, python) to get hands on exper
 ### [Syllabus](syllabus.md)
 
 ### [Resources](resources.md)
+
+### Class description
+
+Key words: biology of cancer, cancer omics, data science with python and R, data visualization
+
+Cancer genomics shows us new ways to look at old biology.
+We will learn the fundamentals of cancer biology, the genomic technologies used to study tumors, and the computational methods necessary to analyze and present the data.
+You will develop marketable programming skills (R, python) to get hands on experience working with real cancer data, and we will work together as a team to address an open research question with the goal of publication.
