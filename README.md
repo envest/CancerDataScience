@@ -20,7 +20,7 @@ You will develop marketable programming skills (R, python) to get hands on exper
 - When online: [classroom zoom link](https://rutgers.zoom.us/j/93874027563?pwd=MjM1Ukk0YWs3OFI0OFI2Sng0NU9lZz09)
 
 ### Office hours
-- 45 minutes before class (ATG or zoom, depending on where class is)
+- 35 minutes before class (ATG or zoom, depending on where class is)
 - By appointment ([via calendly](https://calendly.com/steven-foltz/office-hours)) or email (steven.foltz@rutgers.edu)
 
 ## Resources
