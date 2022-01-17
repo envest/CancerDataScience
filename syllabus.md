@@ -59,10 +59,10 @@ Ways to demonstrate active engagement in this class:
 
 I am fully vaccinated and wear a mask while indoors in both my professional and private life.
 All students are required to wear a proper mask while in the classroom.
-Rutgers is continuing to update their recommendations (updates & official protocols).
-We will abide by university guidelines and live by a classroom covenant to make smart choices and keep everybody healthy.
+Rutgers continues to update their recommendations ([see here](https://coronavirus.rutgers.edu/)).
+We will abide by university guidelines and conduct ourselves by a classroom covenant to make smart choices and keep everybody healthy.
 
-_Classroom Covenant_: The COVID-19 pandemic has presented life-threatening challenges and continues to expose systemic inequalities across society.
+_Classroom Covenant_: The COVID-19 pandemic has presented life-threatening challenges and continues to expose systemic inequalities across our society.
 We will treat each other with compassion and respect in every way.
 We will cultivate a space where we care about each other and do our best to promote the mental and physical well-being of our neighbors.
 
@@ -82,7 +82,7 @@ To begin this process, please complete the Registration form [here](https://weba
 
 ### University Academic Integrity Statement
 
-Rutgers University takes academic integrity very seriously and provides [resources](https://deanofstudents.camden.rutgers.edu/academic-integrity) for you to know what that means.
+Rutgers University takes academic integrity seriously and provides [resources](https://deanofstudents.camden.rutgers.edu/academic-integrity) for you to know what that means.
 By enrolling in this course, you assume responsibility for familiarizing yourself with the [Academic Integrity Policy](https://deanofstudents.camden.rutgers.edu/sites/deanofstudents/files/Academic%20Integrity%20Policy.pdf) and the possible penalties (including suspension and expulsion) for violating the policy.
 The policy states that all suspected violations will be reported to the Office of Community Standards.
 If in doubt, please consult the instructor and review the [Academic Integrity Policy](https://deanofstudents.camden.rutgers.edu/sites/deanofstudents/files/Academic%20Integrity%20Policy.pdf).
