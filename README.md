@@ -39,7 +39,7 @@ You will develop marketable programming skills (R, python) to get hands on exper
     - [R Graphics Cookbook](https://r-graphics.org/)
     - [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
   - R Markdown
-    - [R Markdown; The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+    - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
     - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 
 ### Documentaries
