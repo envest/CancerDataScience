@@ -17,7 +17,7 @@ You will develop marketable programming skills (R, python) to get hands on exper
 ### Class meetings
 - T/Th 3:35-4:55
 - When in person: ATG 101
-- When online: [classroom zoom link]()
+- When online: [classroom zoom link](https://rutgers.zoom.us/j/93874027563?pwd=MjM1Ukk0YWs3OFI0OFI2Sng0NU9lZz09)
 
 ### Office hours
 - 45 minutes before class (ATG or zoom, depending on where class is)
