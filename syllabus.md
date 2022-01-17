@@ -10,10 +10,11 @@
 - By appointment ([via calendly](https://calendly.com/steven-foltz/office-hours)) or email (steven.foltz@rutgers.edu)
 
 ### Professor
-		
-Dr. Steven M. Foltz
-			
-Postdoctoral Fellow, University of Pennsylvania
+
+Dr. Steven M. Foltz (steven.foltz@rutgers.edu)
+
+I am a Postdoctoral Fellow at the University of Pennsylvania, and I have the privilege to teach this course through (PennPORT)[https://www.med.upenn.edu/pennport/].
+I work in the (Childhood Cancer Data Lab)[https://www.ccdatalab.org/], which is focused on using data to solve problems related to pediatric cancer.
 
 Research Area: Cancer genomics, bioinformatics, data science
 
@@ -29,7 +30,7 @@ The default mode of this course is active learning.
 That means when we come to class, we can expect to be engaged with our peers and doing hands-on learning.
 There are lots of benefits to this approach, and it's how you will work every day as a scientist or in any other profession.
 
-## CLASSROOM POLICIES
+## Classroom policies
 
 ### Grading
 
@@ -71,5 +72,3 @@ Rutgers University takes academic integrity very seriously and provides (resourc
 By enrolling in this course, you assume responsibility for familiarizing yourself with the Academic Integrity Policy and the possible penalties (including suspension and expulsion) for violating the policy.
 The policy states that all suspected violations will be reported to the Office of Community Standards.
 If in doubt, please consult the instructor and review the (Academic Integrity Policy)[https://deanofstudents.camden.rutgers.edu/sites/deanofstudents/files/Academic%20Integrity%20Policy.pdf].
-
-![image](https://user-images.githubusercontent.com/10382980/149810404-e94c4405-bd37-48cc-9d42-368c0963b429.png)
