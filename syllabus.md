@@ -24,6 +24,21 @@ Research Area: Cancer genomics, bioinformatics, data science
 
 ## Learning Objectives
 
+This course sits at the intersection of cancer, genomics, and data science, each of which are broad and fast-moving fields.
+Thus, my objective is not to cover everything.
+Rather, my objective is to provide you with the resources and tools necessary to ask and answer important questions.
+
+- Fundamentals of cancer biology
+- Genomic technologies used to study tumors
+  - DNA and RNA sequencing
+  - Alignment and mutation calling
+  - Common data formats
+  - Single cell
+- Computational methods necessary to analyze and present the data
+  - Project design best practices
+  - Python basics: reformatting large input data
+  - R essentials: writing scripts to analyze and visualize data
+
 ### Resources we will use in CDS
 
 ### Course structure
@@ -57,14 +72,16 @@ We will abide by university guidelines and live by a classroom covenant to make 
 
 _Classroom Covenant_: The COVID-19 pandemic has presented life-threatening challenges and continues to expose systemic inequalities across society.
 We will treat each other with compassion and respect in every way.
-We will cultivate a space where we care about each other and do our best to promote understanding, fairness, justice, and equity.
+We will cultivate a space where we care about each other and do our best to promote the mental and physical well-being of our neighbors.
 
 ### Mental Health Statement
+
 Your mental health is important to me and your peers.
 There are many demands placed on college students, both inside and outside of the classroom.
 If you are struggling or need someone to talk with, please reach out to me or visit the Rutgers Camden Student Wellness Center.
 
 ### Students with Disabilities Statement
+
 Rutgers University welcomes students with disabilities into all of the University's educational programs.
 To receive consideration for reasonable accommodations, a student with a disability must contact the appropriate disability services office at the campus where you are officially enrolled, participate in an intake interview, and provide [documentation](https://ods.rutgers.edu/students/documentation-guidelines).
 If the documentation supports your request for reasonable accommodations, your campus’s disability services office will provide you with a Letter of Accommodations.
@@ -72,6 +89,7 @@ Please share this letter with your professor to discuss the accommodations neede
 To begin this process, please complete the Registration form [here](https://webapps.rutgers.edu/student-ods/forms/registration).
 
 ### University Academic Integrity Statement
+
 Rutgers University takes academic integrity very seriously and provides [resources](https://deanofstudents.camden.rutgers.edu/academic-integrity) for you to know what that means.
 By enrolling in this course, you assume responsibility for familiarizing yourself with the [Academic Integrity Policy](https://deanofstudents.camden.rutgers.edu/sites/deanofstudents/files/Academic%20Integrity%20Policy.pdf) and the possible penalties (including suspension and expulsion) for violating the policy.
 The policy states that all suspected violations will be reported to the Office of Community Standards.
