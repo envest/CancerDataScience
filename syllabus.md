@@ -1,5 +1,7 @@
 # Cancer Data Science
 
+Spring 2022 Rutgers University Camden Biology 393 Special Topics
+
 ### Class meetings
 - T/Th 3:35-4:55
 - When in person: ATG 101
