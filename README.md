@@ -23,12 +23,12 @@ You will develop marketable programming skills (R, python) to get hands on exper
 - 35 minutes before class (ATG or zoom, depending on where class is)
 - By appointment ([via calendly](https://calendly.com/steven-foltz/office-hours)) or email (steven.foltz@rutgers.edu)
 
-### Resources and tools
+## Resources and tools
 
-Computing environment
+### Computing environment
 - RStudio Cloud
 
-Online programming tutorials/books
+### Online programming tutorials/books
 - Python
 - R
   - Learning R  
@@ -42,5 +42,5 @@ Online programming tutorials/books
     - [R Markdown; The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
     - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 
-Documentaries
+### Documentaries
 - [Cancer: The Emperor of All Maladies](https://www.pbs.org/kenburns/cancer-emperor-of-all-maladies/) (documentary and book available through Rutgers Library)
