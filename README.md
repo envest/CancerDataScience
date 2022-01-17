@@ -19,7 +19,7 @@
 
 ### [Resources](resources.md)
 
-### Class description
+## Class description
 
 Key words: biology of cancer, cancer omics, data science with python and R, data visualization
 
