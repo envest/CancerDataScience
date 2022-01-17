@@ -34,7 +34,7 @@ Online programming tutorials/books
   - Learning R  
     - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
     - [R for Data Science](https://r4ds.had.co.nz/)
-    - [Cookbook for R[(http://www.cookbook-r.com/)
+    - [Cookbook for R](http://www.cookbook-r.com/)
   - Graphics
     - [R Graphics Cookbook](https://r-graphics.org/)
     - [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
