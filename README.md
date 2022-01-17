@@ -1,8 +1,8 @@
 # Cancer Data Science
 
-[Class schedule](https://www.cnn.com)
+[Class schedule](https://docs.google.com/spreadsheets/d/1G2C7V2IBz6WoJW7fAuNgSd6SY23wlERaTRE2mB8-K8w/edit?usp=sharing)
 
-[Feedback form]()
+[Daily feedback form](https://forms.gle/i3uuzXodqsiaWYEk6)
 
 ## Class description
 
@@ -21,7 +21,7 @@ You will develop marketable programming skills (R, python) to get hands on exper
 
 ### Office hours
 - 45 minutes before class (ATG or zoom, depending on where class is)
-- By appointment ([calendly]()) or email (steven.foltz@rutgers.edu)
+- By appointment ([via calendly](https://calendly.com/steven-foltz/office-hours)) or email (steven.foltz@rutgers.edu)
 
 ## Resources
 
