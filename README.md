@@ -12,8 +12,9 @@
 - When online: [classroom zoom link](https://rutgers.zoom.us/j/93874027563?pwd=MjM1Ukk0YWs3OFI0OFI2Sng0NU9lZz09)
 
 ### Office hours
-- 35 minutes before class (ATG 101 or zoom, depending on where class is)
+- 35 minutes before class (ATG 101 or classroom zoom, depending on where class is)
 - By appointment ([via calendly](https://calendly.com/steven-foltz/office-hours)) or email (steven.foltz@rutgers.edu)
+  - For office hours by appointment, please use my [personal zoom room](https://rutgers.zoom.us/my/sf733?pwd=bHRZQnZrRFFucVVpLzhzWDd5V0poQT09), not the classroom zoom.
 
 ### [Syllabus](syllabus.md)
 
