@@ -70,7 +70,7 @@ We will cultivate a space where we care about each other and do our best to prom
 
 Your mental health is important to me and your peers.
 There are many demands placed on college students, both inside and outside of the classroom.
-If you are struggling or need someone to talk with, please reach out to me or visit the Rutgers Camden Student Wellness Center.
+If you are struggling or need someone to talk with, please reach out to me or visit the [Rutgers Camden Student Wellness Center](https://wellnesscenter.camden.rutgers.edu/).
 
 ### Students with Disabilities Statement
 
