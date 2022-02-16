@@ -2,7 +2,7 @@
 # Resources and tools
 
 ## Computing environment
-- RStudio Cloud
+- [RStudio Cloud](rstudio.cloud)
 
 ## Online programming tutorials/books
 
@@ -25,3 +25,12 @@
 
 ## Documentaries
 - [Cancer: The Emperor of All Maladies](https://www.pbs.org/kenburns/cancer-emperor-of-all-maladies/) (documentary and book available through Rutgers Library)
+
+## Articles
+- [File Not Found](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z)
+- [The ‘war on cancer’ isn’t yet won](https://www.nature.com/articles/d41586-022-00109-3)
+
+## Knowledgebases
+- [cancer.gov](https://www.cancer.gov/about-cancer)
+- [COSMIC](https://cancer.sanger.ac.uk/cosmic)
+- [UCSC Genome Browser](https://genome.ucsc.edu/)
