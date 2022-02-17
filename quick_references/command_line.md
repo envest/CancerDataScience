@@ -8,6 +8,7 @@ Here is a running list of commands we have learned so far:
 | command | some options | what it does | example |
 | ------- | ------- | ------------ | ------- |
 | `cat` | | con`cat`enate files,<br />or just print out one file | `cat file1.tsv file2.tsv`<br />`cat results.tsv` |
+| `cut` | `-f` which column(s) to select<br />`-d` delimiter between columns<br />(default is `\t`) | select particular columns from your data | `cut -f1,3,5 my_file.tsv` |
 | `cd` | | `c`hange `d`irectory<br />(move to new location in file system) | `cd new_directory` |
 | `cp` | | copy a file | `cp original_file.tsv new_file.tsv`
 | `grep` | `-i` ignore case<br />`-v` invert match | print lines that match a pattern | `grep TP53 cancer_genes.tsv` |
