@@ -1,0 +1,96 @@
+---
+title: "My new notebook"
+author: "Dr. Foltz"
+date: '2022-03-10'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+
+Here 1
+
+```{r load libraries and data}
+library(tidyverse)
+clinical <- read_tsv("data/supp_data_1a_clinical.txt")
+snvs_indels <- read_tsv("data/supp_data_2a_snvs_indels.txt")
+acral_maf <- read_tsv("data/supp_data_3a_acral_maf.txt")
+sun_exposed_maf <- read_tsv("data/supp_data_3b_sun_exposed_maf.txt")
+mut_sig <- read_tsv("data/supp_data_3c_mutational_signatures.txt")
+```
+
+# Look at my new plot
+
+```{r}
+medians <- snvs_indels %>%
+  group_by(Subtype) %>%
+  summarize(med = median(SNV_count_per_sample))
+
+snvs_indels %>%
+  ggplot(aes(x = Sample,
+             y = SNV_count_per_sample)) +
+  geom_col(width = 1) +
+  scale_y_continuous(trans = "log10") +
+  #facet_wrap(~ Subtype) +
+  facet_wrap(~ Subtype, scales = "free_x") + 
+  geom_hline(data = medians,
+             mapping = aes(yintercept = med),
+             lty = 2,
+             size = 1,
+             color = "red") +
+  geom_text(data = medians,
+            mapping = aes(x = Inf, y = Inf,
+                          label = str_c("Median = ", med)),
+            hjust = 1,
+            vjust = 1) +
+  labs(x = "Sample", y = "No. SNVs/indels\n(log10)") +
+  theme_classic()
+```
+
+# Header 1
+
+Normal size text does not need a # -- just use #, ##, or ### for headers.
+
+## Header 2
+
+### Header 3
+
+Here is some **bold** text 
+There are `r nrow(clinical)` samples in our data set.
+
+
+# Spring Break To Do List
+
+- Rest
+- Sleep
+- Eat
+- Drink water
+- Declutter
+
+
+1. Figure 1
+2. Figure 2
+3. Figure 3
